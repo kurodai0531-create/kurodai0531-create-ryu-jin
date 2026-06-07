@@ -1,0 +1,23 @@
+@import "tailwindcss";
+
+@theme inline {
+  --color-gold: #c9a96e;
+  --color-gold-light: #e8d5a3;
+  --color-gold-dark: #8a6e3d;
+  --color-cream: #ede8de;
+  --color-cream-muted: #9a9080;
+  --color-ryujin-bg: #0e0c09;
+  --color-ryujin-surface: #191510;
+  --color-ryujin-surface2: #221e18;
+  --color-ryujin-border: #2e2820;
+  --color-ryujin-red: #7a1f1f;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: #0e0c09;
+  color: #ede8de;
+}
