@@ -27,7 +27,7 @@ export default function Staff() {
           {/* Profile */}
           <div>
             <p className="text-[#c9a96e] text-[10px] tracking-[0.5em] mb-3">
-              OWNER &amp; CHEF
+              店主
             </p>
             <h3 className="text-3xl font-bold text-[#ede8de] tracking-[0.2em] mb-2">
               山田 龍之介
